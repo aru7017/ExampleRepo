@@ -1,0 +1,9 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0AB7-F847
+
+ Directory of C:\GitHubFolder
+
+08/09/2024  10:31 AM    <DIR>          .
+08/09/2024  10:31 AM                 0 test.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  194,903,638,016 bytes free
